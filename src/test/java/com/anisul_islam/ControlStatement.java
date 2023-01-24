@@ -24,6 +24,7 @@ public class ControlStatement {
 			System.out.println("this is  a positive or  nagitive number");
 		}else {
 			System.out.println("This is Nagitive");
+			System.out.println("Testing first commit in local to github");
 		}
 		
 
