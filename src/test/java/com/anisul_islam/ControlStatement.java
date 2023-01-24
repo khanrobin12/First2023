@@ -18,12 +18,12 @@ public class ControlStatement {
 		num=sc.nextInt();
 		
 		if (num>0 ) {
-			System.out.println("positive");
+			System.out.println("This is positive");
 			
 		}else if (num==0){
 			System.out.println("this is not a positive or  nagitive number");
 		}else {
-			System.out.println("Nagitive0");
+			System.out.println("This is Nagitive");
 		}
 		
 
