@@ -21,7 +21,7 @@ public class ControlStatement {
 			System.out.println("positive");
 			
 		}else if (num==0){
-			System.out.println("this is not a positive nor nagitive");
+			System.out.println("this is not a positive or  nagitive number");
 		}else {
 			System.out.println("Nagitive0");
 		}
